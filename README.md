@@ -1,6 +1,8 @@
 # Mockin
 A pseudo-relational frontend database for autonomous global communication  
 **powered by immutablejs*
+
+[![build status](https://travis-ci.org/l2silver/mockin.svg?style=flat-square)](https://travis-ci.org/l2silver/mockin)
 ### Example
 ```
 const relationalDatabase = Map({
